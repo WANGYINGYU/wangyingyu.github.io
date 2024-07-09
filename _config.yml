@@ -213,6 +213,7 @@ announcements:
 # Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge
+highlight_theme: github
 kramdown:
   input: GFM
   syntax_highlighter_opts:
