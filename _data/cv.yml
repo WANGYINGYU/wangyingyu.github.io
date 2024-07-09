@@ -34,7 +34,9 @@
       institution: Chengdu University of Technology, Chengdu, China
       year: 2017
       description:
-        - Major: Computer Science
+        - title: Major
+          contents:
+            - Computer Science
 
 # - title: Experience
 #   type: time_table
@@ -73,8 +75,8 @@
   type: time_table
   contents:
     - title: <a href="https://github.com/WANGYINGYU/Occupancy-SLAM?tab=readme-ov-file">Occupancy-SLAM</a>
-      year: 2021-now
-      description: The open-sourced code of Occupancy-SLAM which published on RSS 2022. The method can obtain more accurate solution compared with SOTA methods such as Cartographer by simutanously optimizing robot poses and 2D occupancy grid map.
+      year: 2021-2023
+      description: The open-sourced code of Occupancy-SLAM which published on RSS 2022. The method can obtain more accurate solution compared with SOTA methods such as Cartographer by simultaneously optimizing robot poses and 2D occupancy grid map.
 
 # - title: Honors and Awards
 #   type: time_table
