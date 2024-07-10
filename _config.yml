@@ -311,8 +311,8 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Yingyu]
-  first_name: [Wang]
+  last_name: Yingyu
+  first_name: Wang
 
   style: apa
   locale: en
