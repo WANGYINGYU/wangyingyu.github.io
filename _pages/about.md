@@ -27,6 +27,8 @@ IEEE Transactions on Robotics (T-RO)
 
 <b>Conference Reviewer:</b>
 
+Robotics: Science and Systems (RSS) in 2025
+
 IEEE International Conference on Robotics and Automation (ICRA) in 2024 
 
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) in 2023 and 2024
