@@ -16,7 +16,7 @@ scholar:
   order: descending  # can be either "ascending" or "descending"
 ---
 
-I'm a last year Ph.D. student from [Robotics Insititute](https://www.uts.edu.au/research/robotics-institute), [University of Technology Sydney](https://www.uts.edu.au/), supervised by [Prof. Shoudong Huang](https://profiles.uts.edu.au/Shoudong.Huang/) and [Dr. Liang Zhao](https://profiles.uts.edu.au/Liang.Zhao/). My research interests focus on SLAM and robotics. 
+I'm a last year Ph.D. student from [Robotics Insititute](https://www.uts.edu.au/research/robotics-institute), [University of Technology Sydney](https://www.uts.edu.au/), supervised by [Prof. Shoudong Huang](https://profiles.uts.edu.au/Shoudong.Huang/) and [Dr. Liang Zhao](https://profiles.uts.edu.au/Liang.Zhao/). My research interests focus on SLAM, mapping, and state estimation. 
 
 [Email](mailto:Yingyu.Wang-1@student.uts.edu.au) / [Github](https://github.com/WANGYINGYU?tab=projects) / [Google Scholar](https://scholar.google.com/citations?user=LgeJ4P0AAAAJ&hl=en&authuser=1) / [ResearchGate](https://www.researchgate.net/profile/Yingyu-Wang-9)  
 
