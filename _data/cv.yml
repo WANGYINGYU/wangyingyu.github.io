@@ -13,14 +13,16 @@
   contents:
     - title: PhD
       institution: University of Technology Sydney, Sydney, Australia
-      year: 2025 (expected)
+      year: July, 2025 (expected)
       description:
         - Supervisor by Prof. Shoudong Huang and Dr. Liang Zhao
+        - Topic: Beyond Feature-based BA: Joint Optimization of Robot Trajectories and Non-feature Maps
         # - SLAM
         - title: Research Directions
           contents:
             - SLAM
-            - Robotics
+            - Mapping
+            - State Estimation
     - title: Master
       institution: Ocean University of China, Qingdao, China
       year: 2020
