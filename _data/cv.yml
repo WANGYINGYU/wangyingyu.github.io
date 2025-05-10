@@ -76,8 +76,8 @@
   type: time_table
   contents:
     - title: <a href="https://github.com/WANGYINGYU/Occupancy-SLAM?tab=readme-ov-file">Occupancy-SLAM</a>
-      year: 2021-2023
-      description: The open-sourced code of Occupancy-SLAM which published on RSS 2022. The method can obtain more accurate solution compared with SOTA methods such as Cartographer by simultaneously optimizing robot poses and 2D occupancy grid map.
+      year: 2021-2024
+      description: The open-sourced code of Occupancy-SLAM which published on T-RO 2025 and RSS 2022. The method can estimate more accurate maps and poses for both 3D and 2D cases compared with SOTA methods by simultaneously optimizing robot poses and occupancy map.
 
 # - title: Honors and Awards
 #   type: time_table
