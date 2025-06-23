@@ -24,9 +24,11 @@ I’m currently a final-year Ph.D. candidate at the [Robotics Insititute](https:
 
 <b>Journal Reviewer:</b>
 
+IEEE Transactions on Robotics (T-RO)  
+
 The International Journal of Robotics Research (IJRR) 
 
-IEEE Transactions on Robotics (T-RO)  
+IEEE Robotics and Automation Letters (RA-L)
 
 <b>Conference Reviewer:</b>
 
