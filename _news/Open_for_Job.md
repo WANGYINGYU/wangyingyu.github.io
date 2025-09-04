@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am looking for postdoctoral opportunities in **SLAM and related areas**. If you are aware of any suitable positions, I would be grateful if you could contact [me](mailto:Yingyu.Wang-1@student.uts.edu.au).
+I am looking for **postdoctoral opportunities** in SLAM and related areas. If you are aware of any suitable positions, I would be grateful if you could contact [me](mailto:Yingyu.Wang-1@student.uts.edu.au).
