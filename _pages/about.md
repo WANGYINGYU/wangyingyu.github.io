@@ -32,6 +32,8 @@ The International Journal of Robotics Research (IJRR)
 
 IEEE Robotics and Automation Letters (RA-L)
 
+Autonomous Robots (AURO)
+
 <b>Conference Reviewer:</b>
 
 Robotics: Science and Systems (RSS) in 2025
