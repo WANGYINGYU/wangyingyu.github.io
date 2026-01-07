@@ -43,20 +43,13 @@ I am actively seeking **academic opportunities** in SLAM and related areas. If y
 
 <h2>Academic Service</h2>
 
-<b>Journal Reviewer:</b>
-
-IEEE Transactions on Robotics (T-RO)  
-
-The International Journal of Robotics Research (IJRR) 
-
-IEEE Robotics and Automation Letters (RA-L)
-
-Autonomous Robots (AURO)
-
-<b>Conference Reviewer:</b>
-
-Robotics: Science and Systems (RSS) in 2025
-
-IEEE International Conference on Robotics and Automation (ICRA) in 2024 and 2025
-
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) in 2023 - 2025
+<ul class="list-group list-group-flush">
+  <li class="list-group-item">
+    <p class="mb-1"><strong>Journal Reviewer</strong></p>
+    <p class="mb-0"><em>IEEE Transactions on Robotics (T-RO); The International Journal of Robotics Research (IJRR); IEEE Robotics and Automation Letters (RA-L); Autonomous Robots (AURO)</em></p>
+  </li>
+  <li class="list-group-item">
+    <p class="mb-1"><strong>Conference Reviewer</strong></p>
+    <p class="mb-0"><em>Robotics: Science and Systems (RSS) 2025; IEEE International Conference on Robotics and Automation (ICRA) 2024–2025; IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023–2025</em></p>
+  </li>
+</ul>
