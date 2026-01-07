@@ -24,21 +24,22 @@ I am actively seeking **academic opportunities** in SLAM and related areas. If y
 
 <h2>Working Experience</h2>
 
-**Postdoctoral Research Fellow (Sep. 2025 - Present)**
-
-Robotics Institute, University of Technology Sydney (UTS), Australia
-
-**Casual Academic (Aug. 2022 - Dec. 2025)**
-
-School of Mechanical and Mechatronic Engineering, UTS, Australia
-
-Design Optimisation for Manufacturing (UTS 49928), Robotics Studio 1 (UTS 41068)
-
-**Remote Visiting Ph.D. (Mar. 2025 - Sep. 2025)**
-
-School of Informatics, The University of Edinburgh
-
-High-Fidelity 3D LiDAR Mapping for Autonomous Driving
+<ul class="list-group list-group-flush">
+  <li class="list-group-item">
+    <p class="mb-1"><strong>Postdoctoral Research Fellow</strong> <span class="text-muted">(Sep. 2025 – Present)</span></p>
+    <p class="mb-0"><em>Robotics Institute, University of Technology Sydney (UTS), Australia</em></p>
+  </li>
+  <li class="list-group-item">
+    <p class="mb-1"><strong>Casual Academic</strong> <span class="text-muted">(Aug. 2022 – Dec. 2025)</span></p>
+    <p class="mb-1"><em>School of Mechanical and Mechatronic Engineering, UTS, Australia</em></p>
+    <p class="mb-0">Design Optimisation for Manufacturing (UTS 49928), Robotics Studio 1 (UTS 41068)</p>
+  </li>
+  <li class="list-group-item">
+    <p class="mb-1"><strong>Remote Visiting Ph.D.</strong> <span class="text-muted">(Mar. 2025 – Sep. 2025)</span></p>
+    <p class="mb-1"><em>School of Informatics, The University of Edinburgh</em></p>
+    <p class="mb-0">High-Fidelity 3D LiDAR Mapping for Autonomous Driving</p>
+  </li>
+</ul>
 
 <h2>Academic Service</h2>
 
