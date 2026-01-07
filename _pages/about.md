@@ -22,6 +22,24 @@ I am looking for **postdoctoral opportunities** in SLAM and related areas. If yo
 
 [Email](mailto:Yingyu.Wang-1@student.uts.edu.au) / [Github](https://github.com/WANGYINGYU?tab=projects) / [Google Scholar](https://scholar.google.com/citations?user=LgeJ4P0AAAAJ&hl=en&authuser=1) / [ResearchGate](https://www.researchgate.net/profile/Yingyu-Wang-9)  
 
+<h2>Working Experience</h2>
+
+**Postdoctoral Research Fellow (Sep. 2025 - Present)**
+
+Robotics Institute, University of Technology Sydney (UTS), Australia
+
+**Casual Academic (Aug. 2022 - Dec. 2025)**
+
+School of Mechanical and Mechatronic Engineering, UTS, Australia
+
+Design Optimisation for Manufacturing (UTS 49928), Robotics Studio 1 (UTS 41068)
+
+**Remote Visiting Ph.D. (Mar. 2025 - Sep. 2025)**
+
+School of Informatics, The University of Edinburgh
+
+High-Fidelity 3D LiDAR Mapping for Autonomous Driving
+
 <h2>Academic Service</h2>
 
 <b>Journal Reviewer:</b>
