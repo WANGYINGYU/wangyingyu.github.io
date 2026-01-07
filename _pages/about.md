@@ -16,9 +16,9 @@ scholar:
   order: descending  # can be either "ascending" or "descending"
 ---
 
-I’m currently a final-year Ph.D. candidate at the [Robotics Insititute](https://www.uts.edu.au/research/robotics-institute), [University of Technology Sydney](https://www.uts.edu.au/), supervised by [Prof. Shoudong Huang](https://profiles.uts.edu.au/Shoudong.Huang/) and [A/Prof. Liang Zhao](https://www.research.ed.ac.uk/en/persons/liang-zhao). My research primarily focuses on **simultaneous localization and mapping (SLAM)**, **mapping**, and **state estimation** for autonomous robotics systems. 
+I am currently a Postdoctoral Research Fellow at the [Robotics Institute](https://www.uts.edu.au/research/robotics-institute), [University of Technology Sydney](https://www.uts.edu.au/) (UTS). I completed my PhD at UTS under the supervision of [Prof. Shoudong Huang](https://profiles.uts.edu.au/Shoudong.Huang/) and [A/Prof. Liang Zhao](https://www.research.ed.ac.uk/en/persons/liang-zhao). My research primarily focuses on **simultaneous localization and mapping (SLAM)**, **mapping**, and **state estimation** for autonomous robotics systems. 
 
-I am looking for **postdoctoral opportunities** in SLAM and related areas. If you are aware of any suitable positions, I would be grateful if you could contact me.
+I am actively seeking **academic opportunities** in SLAM and related areas. If you are aware of any suitable positions or would like to discuss potential collaborations, I would be very happy to hear from you.
 
 [Email](mailto:Yingyu.Wang-1@student.uts.edu.au) / [Github](https://github.com/WANGYINGYU?tab=projects) / [Google Scholar](https://scholar.google.com/citations?user=LgeJ4P0AAAAJ&hl=en&authuser=1) / [ResearchGate](https://www.researchgate.net/profile/Yingyu-Wang-9)  
 
