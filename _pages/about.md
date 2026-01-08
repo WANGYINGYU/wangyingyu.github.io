@@ -26,7 +26,7 @@ I am actively seeking **academic opportunities** in SLAM and related areas. If y
 
 <ul class="list-group list-group-flush pl-0 ps-0">
   <li class="list-group-item px-0">
-    <p class="mb-1"><strong>Postdoctoral Research Fellow</strong> <span class="text-muted">(Sep. 2025 – Present)</span></p>
+    <p class="mb-1"><strong>Postdoctoral Research Associate</strong> <span class="text-muted">(Sep. 2025 – Present)</span></p>
     <p class="mb-0"><em>Robotics Institute, UTS, Australia</em></p>
   </li>
   <li class="list-group-item px-0">
@@ -56,8 +56,9 @@ I am actively seeking **academic opportunities** in SLAM and related areas. If y
     <p class="mb-1"><strong>Conference Reviewer</strong></p>
     <p class="mb-0">
       <em>Robotics: Science and Systems (RSS) 2025</em><br>
-      <em>IEEE International Conference on Robotics and Automation (ICRA) 2024–2025</em><br>
+      <em>IEEE International Conference on Robotics and Automation (ICRA) 2024–2026</em><br>
       <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023–2025</em>
     </p>
   </li>
 </ul>
+
