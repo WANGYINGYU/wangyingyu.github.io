@@ -24,39 +24,39 @@ I am actively seeking **academic opportunities** in SLAM and related areas. If y
 
 <h2>Working Experience</h2>
 
-<ul class="list-group list-group-flush">
-  <li class="list-group-item">
+<ul class="list-group list-group-flush pl-0 ps-0">
+  <li class="list-group-item px-0">
     <p class="mb-1"><strong>Postdoctoral Research Fellow</strong> <span class="text-muted">(Sep. 2025 – Present)</span></p>
-    <p class="mb-0 ml-4"><em>Robotics Institute, University of Technology Sydney, Australia</em></p>
+    <p class="mb-0"><em>Robotics Institute, University of Technology Sydney, Australia</em></p>
   </li>
-  <li class="list-group-item">
+  <li class="list-group-item px-0">
     <p class="mb-1"><strong>Casual Academic</strong> <span class="text-muted">(Aug. 2022 – Dec. 2025)</span></p>
-    <p class="mb-1 ml-4"><em>School of Mechanical and Mechatronic Engineering, University of Technology Sydney, Australia</em></p>
-    <p class="mb-0 ml-4">Design Optimisation for Manufacturing (UTS 49928)</p>
-    <p class="mb-0 ml-4">Robotics Studio 1 (UTS 41068)</p>
+    <p class="mb-1"><em>School of Mechanical and Mechatronic Engineering, University of Technology Sydney, Australia</em></p>
+    <p class="mb-0">Design Optimisation for Manufacturing (UTS 49928)</p>
+    <p class="mb-0">Robotics Studio 1 (UTS 41068)</p>
   </li>
-  <li class="list-group-item">
+  <li class="list-group-item px-0">
     <p class="mb-1"><strong>Remote Visiting Ph.D.</strong> <span class="text-muted">(Mar. 2025 – Sep. 2025)</span></p>
-    <p class="mb-1 ml-4"><em>School of Informatics, The University of Edinburgh</em></p>
+    <p class="mb-1"><em>School of Informatics, The University of Edinburgh</em></p>
   </li>
 </ul>
 
 
 <h2>Academic Service</h2>
 
-<ul class="list-group list-group-flush">
-  <li class="list-group-item">
+<ul class="list-group list-group-flush pl-0 ps-0">
+  <li class="list-group-item px-0">
     <p class="mb-1"><strong>Journal Reviewer</strong></p>
-    <p class="mb-0 ml-4">
+    <p class="mb-0">
       <em>IEEE Transactions on Robotics (T-RO)</em><br>
       <em>The International Journal of Robotics Research (IJRR)</em><br>
       <em>IEEE Robotics and Automation Letters (RA-L)</em><br>
       <em>Autonomous Robots (AURO)</em>
     </p>
   </li>
-  <li class="list-group-item">
+  <li class="list-group-item px-0">
     <p class="mb-1"><strong>Conference Reviewer</strong></p>
-    <p class="mb-0 ml-4">
+    <p class="mb-0">
       <em>Robotics: Science and Systems (RSS) 2025</em><br>
       <em>IEEE International Conference on Robotics and Automation (ICRA) 2024–2025</em><br>
       <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023–2025</em>
