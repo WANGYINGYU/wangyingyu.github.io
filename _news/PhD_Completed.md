@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I have successfully completed my PhD at the Robotics Institute, University of Technology Sydney.
+I have completed my PhD at the Robotics Institute, University of Technology Sydney.
 

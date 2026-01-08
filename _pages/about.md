@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink: /
+subtitle: Postdoctoral Research Associate at the Robotics Institute, University of Technology Sydney
 
 profile:
   align: right
@@ -61,4 +62,3 @@ I am actively seeking **academic opportunities** in SLAM and related areas. If y
     </p>
   </li>
 </ul>
-
