@@ -13,7 +13,7 @@
   contents:
     - title: PhD
       institution: University of Technology Sydney, Sydney, Australia
-      year: 2025 
+      year: Jul. 2021 - Dec. 2025 
       description:
         - Supervisor by Prof. Shoudong Huang and A/Prof. Liang Zhao
         # - SLAM
@@ -24,7 +24,7 @@
             - State Estimation
     - title: Master
       institution: Ocean University of China, Qingdao, China
-      year: 2020
+      year: Sep. 2017 - Jun. 2020
       description:
         - Supervised by Prof. Junyu Dong
         - title: Research Directions
@@ -33,7 +33,7 @@
             - SLAM
     - title: Bachelor
       institution: Chengdu University of Technology, Chengdu, China
-      year: 2017
+      year: Sep. 2013 - Jun. 2017
       description:
         - title: Major
           contents:
