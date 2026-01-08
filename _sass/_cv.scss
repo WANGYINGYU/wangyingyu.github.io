@@ -52,7 +52,7 @@ div.cv-entry-time {
 
 span.cv-entry-badge {
   display: inline-block;
-  min-width: 11rem;
+  min-width: 9rem;
   text-align: center;
 }
 
@@ -72,7 +72,7 @@ div.cv-entry-body {
   }
 
   div.cv-entry-time {
-    min-width: 12rem;
+    flex: 0 0 10rem;
   }
 
   div.cv-entry-body {
