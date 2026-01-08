@@ -27,20 +27,18 @@ I am actively seeking **academic opportunities** in SLAM and related areas. If y
 <ul class="list-group list-group-flush pl-0 ps-0">
   <li class="list-group-item px-0">
     <p class="mb-1"><strong>Postdoctoral Research Fellow</strong> <span class="text-muted">(Sep. 2025 – Present)</span></p>
-    <p class="mb-0"><em>Robotics Institute, University of Technology Sydney, Australia</em></p>
+    <p class="mb-0"><em>Robotics Institute, UTS, Australia</em></p>
   </li>
   <li class="list-group-item px-0">
     <p class="mb-1"><strong>Casual Academic</strong> <span class="text-muted">(Aug. 2022 – Dec. 2025)</span></p>
-    <p class="mb-1"><em>School of Mechanical and Mechatronic Engineering, University of Technology Sydney, Australia</em></p>
-    <p class="mb-0">Design Optimisation for Manufacturing (UTS 49928)</p>
-    <p class="mb-0">Robotics Studio 1 (UTS 41068)</p>
+    <p class="mb-1"><em>School of Mechanical and Mechatronic Engineering, UTS, Australia</em></p>
+    <p class="mb-0">Design Optimisation for Manufacturing (UTS 49928); Robotics Studio 1 (UTS 41068)</p>
   </li>
   <li class="list-group-item px-0">
-    <p class="mb-1"><strong>Remote Visiting Ph.D.</strong> <span class="text-muted">(Mar. 2025 – Sep. 2025)</span></p>
-    <p class="mb-1"><em>School of Informatics, The University of Edinburgh</em></p>
+    <p class="mb-1"><strong>Visiting Ph.D.</strong> <span class="text-muted">(Mar. 2025 – Sep. 2025)</span></p>
+    <p class="mb-1"><em>School of Informatics, The University of Edinburgh, UK</em></p>
   </li>
 </ul>
-
 
 <h2>Academic Service</h2>
 

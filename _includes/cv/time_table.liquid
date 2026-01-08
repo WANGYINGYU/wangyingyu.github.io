@@ -1,21 +1,21 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
   {% for content in entry.contents %}
     <li class="list-group-item">
-      <div class="row align-items-start">
+      <div class="cv-entry">
         {% if content.year %}
-          <div class="col-12 col-md-3 col-lg-2 mb-2 mb-md-0 d-flex flex-column align-items-start">
-            <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+          <div class="cv-entry-time">
+            <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle cv-entry-badge">
               {{- content.year -}}
             </span>
             {% if content.location %}
-              <p class="location mb-0 mt-2">
+              <p class="location mb-0 mt-2 cv-entry-location">
                 <i class="fa-solid fa-location-dot iconlocation"></i>
                 {{ content.location }}
               </p>
             {% endif %}
           </div>
         {% endif %}
-        <div class="col-12 col-md-9 col-lg-10 mt-2 mt-md-0 pl-md-4">
+        <div class="cv-entry-body">
           {% if content.title %}
             <h6 class="title font-weight-bold">{{ content.title }}</h6>
           {% endif %}

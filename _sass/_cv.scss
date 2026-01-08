@@ -37,6 +37,49 @@ a.btncv:hover {
  * CV TIME_TABLE styles
  *****************************/
 
+div.cv-entry {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+div.cv-entry-time {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex: 0 0 auto;
+}
+
+span.cv-entry-badge {
+  display: inline-block;
+  min-width: 11rem;
+  text-align: center;
+}
+
+p.cv-entry-location {
+  font-size: 0.75rem;
+}
+
+div.cv-entry-body {
+  flex: 1 1 auto;
+}
+
+@media (min-width: 768px) {
+  div.cv-entry {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 1.5rem;
+  }
+
+  div.cv-entry-time {
+    min-width: 12rem;
+  }
+
+  div.cv-entry-body {
+    padding-top: 0;
+  }
+}
+
 p.location {
   font-size: 0.7rem;
   white-space: nowrap;
