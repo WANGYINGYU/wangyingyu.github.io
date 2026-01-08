@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- I will join the Robotics Institute at the University of Technology Sydney as a postdoctoral research associate.
+ I joined the Robotics Institute at the University of Technology Sydney as a Postdoctoral Research Associate.

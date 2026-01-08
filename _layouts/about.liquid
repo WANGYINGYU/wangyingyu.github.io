@@ -11,7 +11,9 @@ layout: default
         {{ site.title }}
       {% endif %}
     </h1>
-    <p class="desc">{{ page.subtitle }}</p>
+    {% if page.subtitle %}
+      <p class="desc">{{ page.subtitle | newline_to_br }}</p>
+    {% endif %}
   </header>
 
   <article>

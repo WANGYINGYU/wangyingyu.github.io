@@ -2,7 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Research Associate at the Robotics Institute, University of Technology Sydney
+subtitle: |
+    Postdoctoral Research Associate
+    Robotics Institute, University of Technology Sydney
 
 profile:
   align: right
