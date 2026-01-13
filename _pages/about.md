@@ -43,22 +43,22 @@ I am actively seeking **academic opportunities** in SLAM and related areas. If y
   </li>
   <li class="list-group-item px-0">
     <p class="mb-1"><strong>Academic Service</strong></p>
-    <div class="mb-2">
-      <p class="mb-1"><em>Journal Reviewer</em></p>
-      <p class="mb-0">
-        <em>IEEE Transactions on Robotics (T-RO)</em><br>
-        <em>The International Journal of Robotics Research (IJRR)</em><br>
-        <em>IEEE Robotics and Automation Letters (RA-L)</em><br>
-        <em>Autonomous Robots (AURO)</em>
-      </p>
+    <div class="mb-3">
+      <p class="mb-1 text-uppercase text-muted font-weight-bold small">Journal Reviewer</p>
+      <ul class="mb-0 pl-3 ps-3">
+        <li><em>IEEE Transactions on Robotics (T-RO)</em></li>
+        <li><em>The International Journal of Robotics Research (IJRR)</em></li>
+        <li><em>IEEE Robotics and Automation Letters (RA-L)</em></li>
+        <li><em>Autonomous Robots (AURO)</em></li>
+      </ul>
     </div>
     <div>
-      <p class="mb-1"><em>Conference Reviewer</em></p>
-      <p class="mb-0">
-        <em>Robotics: Science and Systems (RSS) 2025</em><br>
-        <em>IEEE International Conference on Robotics and Automation (ICRA) 2024–2026</em><br>
-        <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023–2025</em>
-      </p>
+      <p class="mb-1 text-uppercase text-muted font-weight-bold small">Conference Reviewer</p>
+      <ul class="mb-0 pl-3 ps-3">
+        <li><em>Robotics: Science and Systems (RSS) 2025</em></li>
+        <li><em>IEEE International Conference on Robotics and Automation (ICRA) 2024–2026</em></li>
+        <li><em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023–2025</em></li>
+      </ul>
     </div>
   </li>
 </ul>
