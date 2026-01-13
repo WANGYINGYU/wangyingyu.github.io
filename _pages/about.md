@@ -41,26 +41,31 @@ I am actively seeking **academic opportunities** in SLAM and related areas. If y
     <p class="mb-1"><strong>Visiting Ph.D.</strong> <span class="text-muted">(Mar. 2025 – Sep. 2025)</span></p>
     <p class="mb-1"><em>School of Informatics, The University of Edinburgh, UK</em></p>
   </li>
-</ul>
-
-<h2>Academic Service</h2>
-
-<ul class="list-group list-group-flush pl-0 ps-0">
   <li class="list-group-item px-0">
-    <p class="mb-1"><strong>Journal Reviewer</strong></p>
-    <p class="mb-0">
-      <em>IEEE Transactions on Robotics (T-RO)</em><br>
-      <em>The International Journal of Robotics Research (IJRR)</em><br>
-      <em>IEEE Robotics and Automation Letters (RA-L)</em><br>
-      <em>Autonomous Robots (AURO)</em>
-    </p>
-  </li>
-  <li class="list-group-item px-0">
-    <p class="mb-1"><strong>Conference Reviewer</strong></p>
-    <p class="mb-0">
-      <em>Robotics: Science and Systems (RSS) 2025</em><br>
-      <em>IEEE International Conference on Robotics and Automation (ICRA) 2024–2026</em><br>
-      <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023–2025</em>
-    </p>
+    <p class="mb-1"><strong>Academic Service</strong></p>
+    <div class="mb-2">
+      <p class="mb-1"><em>Journal Reviewer</em></p>
+      <p class="mb-0">
+        <em>IEEE Transactions on Robotics (T-RO)</em><br>
+        <em>The International Journal of Robotics Research (IJRR)</em><br>
+        <em>IEEE Robotics and Automation Letters (RA-L)</em><br>
+        <em>Autonomous Robots (AURO)</em>
+      </p>
+    </div>
+    <div>
+      <p class="mb-1"><em>Conference Reviewer</em></p>
+      <p class="mb-0">
+        <em>Robotics: Science and Systems (RSS) 2025</em><br>
+        <em>IEEE International Conference on Robotics and Automation (ICRA) 2024–2026</em><br>
+        <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023–2025</em>
+      </p>
+    </div>
   </li>
 </ul>
+
+
+
+
+
+
+
