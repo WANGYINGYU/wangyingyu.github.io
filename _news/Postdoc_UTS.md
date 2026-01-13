@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- I joined the Robotics Institute at the University of Technology Sydney as a Postdoctoral Research Associate.
+ I started a Postdoctoral Research Associate position at the Robotics Institute, UTS.
