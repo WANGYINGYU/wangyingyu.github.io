@@ -25,7 +25,7 @@ I am actively seeking **academic opportunities** in SLAM and related areas. If y
 
 [Email](mailto:Yingyu.Wang-1@student.uts.edu.au) / [Github](https://github.com/WANGYINGYU?tab=projects) / [Google Scholar](https://scholar.google.com/citations?user=LgeJ4P0AAAAJ&hl=en&authuser=1) / [ResearchGate](https://www.researchgate.net/profile/Yingyu-Wang-9)  
 
-<h2>Working Experience</h2>
+<h2>Experience</h2>
 
 <ul class="list-group list-group-flush pl-0 ps-0">
   <li class="list-group-item px-0">
