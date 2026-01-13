@@ -57,7 +57,7 @@ I am actively seeking **academic opportunities** in SLAM and related areas. If y
       <ul class="mb-0 pl-3 ps-3">
         <li><em>Robotics: Science and Systems (RSS) 2025</em></li>
         <li><em>IEEE International Conference on Robotics and Automation (ICRA) 2024–2026</em></li>
-        <li><em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023–2025</em></li>
+        <li class="text-nowrap"><em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023–2025</em></li>
       </ul>
     </div>
   </li>
