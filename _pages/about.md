@@ -19,7 +19,7 @@ scholar:
   order: descending  # can be either "ascending" or "descending"
 ---
 
-I am currently a Postdoctoral Research Fellow at the [Robotics Institute](https://www.uts.edu.au/research/robotics-institute), [University of Technology Sydney](https://www.uts.edu.au/) (UTS). I completed my PhD at UTS under the supervision of [Prof. Shoudong Huang](https://profiles.uts.edu.au/Shoudong.Huang/) and [A/Prof. Liang Zhao](https://www.research.ed.ac.uk/en/persons/liang-zhao). My research primarily focuses on **simultaneous localization and mapping (SLAM)**, **mapping**, and **state estimation** for autonomous robotics systems. 
+I am currently a Postdoctoral Research Associate at the [Robotics Institute](https://www.uts.edu.au/research/robotics-institute), [University of Technology Sydney](https://www.uts.edu.au/) (UTS). I completed my PhD at UTS under the supervision of [Prof. Shoudong Huang](https://profiles.uts.edu.au/Shoudong.Huang/) and [A/Prof. Liang Zhao](https://www.research.ed.ac.uk/en/persons/liang-zhao). My research primarily focuses on **simultaneous localization and mapping (SLAM)**, **mapping**, and **state estimation** for autonomous robotics systems. 
 
 I am actively seeking **academic opportunities** in SLAM and related areas. If you are aware of any suitable positions or would like to discuss potential collaborations, I would be very happy to hear from you.
 
