@@ -2,6 +2,16 @@
  * CV shared styles
  *****************************/
 
+.cv-container {
+  max-width: 1100px;
+}
+
+@media (min-width: 1400px) {
+  .cv-container {
+    max-width: 1260px;
+  }
+}
+
 div.container-link-button {
   margin-right: 0.5rem;
 }
