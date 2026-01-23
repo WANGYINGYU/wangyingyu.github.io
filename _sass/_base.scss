@@ -25,12 +25,18 @@ p.desc {
 }
 
 .about-container {
-  max-width: 880px;
+  max-width: 820px;
+}
+
+.post .list-group-item {
+  background-color: transparent;
+  color: inherit;
+  border-color: var(--global-divider-color);
 }
 
 @media (min-width: 1400px) {
   .about-container {
-    max-width: 1000px;
+    max-width: 920px;
   }
 }
 
@@ -695,9 +701,6 @@ footer.sticky-bottom {
 
     li {
       margin-bottom: 1rem;
-
-      .preview {
-      }
 
       .abbr {
         margin-bottom: 0.5rem;
