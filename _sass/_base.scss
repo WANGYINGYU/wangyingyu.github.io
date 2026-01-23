@@ -24,6 +24,16 @@ p.desc {
   white-space: normal;
 }
 
+.about-container {
+  max-width: 1024px;
+}
+
+@media (min-width: 1400px) {
+  .about-container {
+    max-width: 1180px;
+  }
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }

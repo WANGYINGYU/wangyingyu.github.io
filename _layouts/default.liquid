@@ -21,7 +21,13 @@
     {% include header.liquid %}
 
     <!-- Content -->
-    <div class="container mt-5 {% if page.layout == 'cv' %}cv-container{% endif %}" role="main">
+    {% assign container_classes = 'container mt-5' %}
+    {% if page.layout == 'cv' %}
+      {% assign container_classes = container_classes | append: ' cv-container' %}
+    {% elsif page.layout == 'about' %}
+      {% assign container_classes = container_classes | append: ' about-container' %}
+    {% endif %}
+    <div class="{{ container_classes }}" role="main">
       {% if page.toc and page.toc.sidebar %}
         {% if page.toc.sidebar == 'right' %}
           <div class="row">

@@ -42,12 +42,12 @@ I am actively seeking **academic opportunities** in SLAM and related areas. If y
     <p class="mb-1"><em>School of Informatics, The University of Edinburgh, UK</em></p>
   </li>
   <li class="list-group-item px-0">
-    <p class="mb-1"><strong>Editorial Role</strong></p>
-    <ul class="mb-0 pl-3 ps-3">
-        <li><em>Associate Editor for IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026</em></li>
-      </ul>
     <p class="mb-1"><strong>Academic Service</strong></p>
     <div class="mb-3">
+      <p class="mb-1 text-uppercase text-muted font-weight-bold small">Editorial Role</p>
+      <ul class="mb-0 pl-3 ps-3">
+        <li><em>Associate Editor for IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026</em></li>
+      </ul>
       <p class="mb-1 text-uppercase text-muted font-weight-bold small">Journal Reviewer</p>
       <ul class="mb-0 pl-3 ps-3">
         <li><em>IEEE Transactions on Robotics (T-RO)</em></li>
@@ -66,6 +66,7 @@ I am actively seeking **academic opportunities** in SLAM and related areas. If y
     </div>
   </li>
 </ul>
+
 
 
 
