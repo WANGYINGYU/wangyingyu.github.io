@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will serve as an Associate Editor for IROS 2026. 
-
+I will serve as an Associate Editor for IROS 2026.

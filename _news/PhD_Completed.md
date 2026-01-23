@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 I have completed my PhD at the Robotics Institute, University of Technology Sydney.
-

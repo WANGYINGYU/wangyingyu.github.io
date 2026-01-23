@@ -3,8 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: |
-    Postdoctoral Research Associate
-    Robotics Institute, University of Technology Sydney
+  Postdoctoral Research Associate
+  Robotics Institute, University of Technology Sydney
 
 profile:
   align: right
@@ -16,14 +16,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 scholar:
   sort_by: year
-  order: descending  # can be either "ascending" or "descending"
+  order: descending # can be either "ascending" or "descending"
 ---
 
-I am currently a Postdoctoral Research Associate at the [Robotics Institute](https://www.uts.edu.au/research/robotics-institute), [University of Technology Sydney](https://www.uts.edu.au/) (UTS). I completed my PhD at UTS under the supervision of [Prof. Shoudong Huang](https://profiles.uts.edu.au/Shoudong.Huang/) and [A/Prof. Liang Zhao](https://www.research.ed.ac.uk/en/persons/liang-zhao). My research primarily focuses on **simultaneous localization and mapping (SLAM)**, **mapping**, and **state estimation** for autonomous robotics systems. 
+I am currently a Postdoctoral Research Associate at the [Robotics Institute](https://www.uts.edu.au/research/robotics-institute), [University of Technology Sydney](https://www.uts.edu.au/) (UTS). I completed my PhD at UTS under the supervision of [Prof. Shoudong Huang](https://profiles.uts.edu.au/Shoudong.Huang/) and [A/Prof. Liang Zhao](https://www.research.ed.ac.uk/en/persons/liang-zhao). My research primarily focuses on **simultaneous localization and mapping (SLAM)**, **mapping**, and **state estimation** for autonomous robotics systems.
 
 I am actively seeking **academic opportunities** in SLAM and related areas. If you are aware of any suitable positions or would like to discuss potential collaborations, I would be very happy to hear from you.
 
-[Email](mailto:Yingyu.Wang-1@student.uts.edu.au) / [Github](https://github.com/WANGYINGYU?tab=projects) / [Google Scholar](https://scholar.google.com/citations?user=LgeJ4P0AAAAJ&hl=en&authuser=1) / [ResearchGate](https://www.researchgate.net/profile/Yingyu-Wang-9)  
+[Email](mailto:Yingyu.Wang-1@student.uts.edu.au) / [Github](https://github.com/WANGYINGYU?tab=projects) / [Google Scholar](https://scholar.google.com/citations?user=LgeJ4P0AAAAJ&hl=en&authuser=1) / [ResearchGate](https://www.researchgate.net/profile/Yingyu-Wang-9)
 
 <h2>Experience</h2>
 
@@ -66,10 +66,3 @@ I am actively seeking **academic opportunities** in SLAM and related areas. If y
     </div>
   </li>
 </ul>
-
-
-
-
-
-
-

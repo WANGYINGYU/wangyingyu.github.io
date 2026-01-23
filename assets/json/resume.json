@@ -30,7 +30,7 @@
       "area": "Robotics",
       "studyType": "PhD",
       "startDate": "2021-07-01",
-      "endDate": "2025-07-30 (expected)",
+      "endDate": "2025-07-30 (expected)"
     }
   ],
   "publications": [
@@ -87,13 +87,7 @@
     {
       "name": "SLAM",
       "icon": "",
-      "keywords": [
-        "Localization",
-        "Mapping",
-        "Lidar",
-        "Optimization",
-        "Robotics"
-      ]
+      "keywords": ["Localization", "Mapping", "Lidar", "Optimization", "Robotics"]
     }
   ]
 }

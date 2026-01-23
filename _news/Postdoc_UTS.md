@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- I started a Postdoctoral Research Associate position at the Robotics Institute, UTS.
+I started a Postdoctoral Research Associate position at the Robotics Institute, UTS.
