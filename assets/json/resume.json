@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Yingyu WANG",
-    "label": "PhD Student",
+    "label": "Postdoctoral Research Associate",
     "image": "",
-    "email": "Yingyu.Wang-1@student.uts.edu.au",
+    "email": "Yingyu.Wang@uts.edu.au",
     "phone": "",
     "url": "https://wangyingyu.github.io/",
-    "summary": "I'm a third-year Ph.D. student from Robotics Insititute, University of Technology Sydney, supervised by Prof. Shoudong Huang and Dr. Liang Zhao. My research interests focus on SLAM and robotics.",
+    "summary": "I'm a Postdoctoral Research Associate at the Robotics Insititute, University of Technology Sydney. My research interests focus on SLAM.",
     "location": {
-      "address": "CB02, Broadway, Ultimo",
+      "address": "CB11, Broadway, Ultimo",
       "postalCode": "NSW 2007",
       "city": "Sydney",
       "countryCode": "AUS",
@@ -30,7 +30,7 @@
       "area": "Robotics",
       "studyType": "PhD",
       "startDate": "2021-07-01",
-      "endDate": "2025-07-30 (expected)"
+      "endDate": "2025-12-20"
     }
   ],
   "publications": [
