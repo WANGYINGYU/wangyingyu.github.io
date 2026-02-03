@@ -46,22 +46,17 @@ I am actively seeking **academic opportunities** in SLAM and related areas. If y
     <div class="mb-3">
       <p class="mb-1 text-uppercase text-muted font-weight-bold small">Editorial Role</p>
       <ul class="mb-0 pl-3 ps-3">
-        <li><em>Associate Editor for IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026</em></li>
+        <li><em>Associate Editor for IROS 2026</em></li>
       </ul>
       <p class="mb-1 text-uppercase text-muted font-weight-bold small">Journal Reviewer</p>
       <ul class="mb-0 pl-3 ps-3">
-        <li><em>IEEE Transactions on Robotics (T-RO)</em></li>
-        <li><em>The International Journal of Robotics Research (IJRR)</em></li>
-        <li><em>IEEE Robotics and Automation Letters (RA-L)</em></li>
-        <li><em>Autonomous Robots (AURO)</em></li>
+        <li><em>T-RO, IJRR, R-AL, AURO</em></li>
       </ul>
     </div>
     <div>
       <p class="mb-1 text-uppercase text-muted font-weight-bold small">Conference Reviewer</p>
       <ul class="mb-0 pl-3 ps-3">
-        <li><em>Robotics: Science and Systems (RSS) 2025</em></li>
-        <li><em>IEEE International Conference on Robotics and Automation (ICRA) 2024–2026</em></li>
-        <li class="text-nowrap"><em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023–2025</em></li>
+        <li><em>RSS 2025, ICRA 2024–2026, IROS 2023–2025</em></li>
       </ul>
     </div>
   </li>
