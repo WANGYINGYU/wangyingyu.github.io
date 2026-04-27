@@ -28,6 +28,236 @@ p.desc {
   max-width: 860px;
 }
 
+.about-page {
+  color: var(--global-text-color);
+}
+
+.about-hero {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 260px;
+  align-items: center;
+  gap: 2.5rem;
+  margin-bottom: 1.5rem;
+  padding: 2.75rem 0 2.5rem;
+  border-bottom: 1px solid var(--global-divider-color);
+  background-image:
+    linear-gradient(var(--global-grid-line) 1px, transparent 1px),
+    linear-gradient(90deg, var(--global-grid-line) 1px, transparent 1px),
+    linear-gradient(135deg, var(--global-accent-soft), transparent 42%);
+  background-size: 28px 28px, 28px 28px, 100% 100%;
+}
+
+.about-hero__eyebrow {
+  margin-bottom: 0.75rem;
+  color: var(--global-secondary-accent);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.about-hero .post-title {
+  margin-bottom: 0.85rem;
+  color: var(--global-heading-color);
+  font-size: 3.1rem;
+  line-height: 1.02;
+}
+
+.about-hero__tagline {
+  max-width: 42rem;
+  margin-bottom: 1rem;
+  color: var(--global-heading-color);
+  font-size: 1.28rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.about-hero__description {
+  max-width: 43rem;
+  margin-bottom: 1.15rem;
+  color: var(--global-text-color);
+  font-size: 1.02rem;
+  line-height: 1.75;
+}
+
+.about-hero__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.35rem;
+
+  span {
+    border: 1px solid rgba(29, 133, 136, 0.26);
+    border-radius: 999px;
+    padding: 0.33rem 0.68rem;
+    background: var(--global-surface-color);
+    color: var(--global-theme-color);
+    font-size: 0.82rem;
+    font-weight: 700;
+  }
+}
+
+.about-hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-bottom: 1rem;
+}
+
+.about-action {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-height: 2.35rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 999px;
+  padding: 0.45rem 0.78rem;
+  background: var(--global-surface-color);
+  color: var(--global-text-color);
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-decoration: none;
+
+  &:hover {
+    border-color: var(--global-theme-color);
+    color: var(--global-theme-color);
+    text-decoration: none;
+  }
+}
+
+.about-action--primary {
+  border-color: var(--global-theme-color);
+  background: var(--global-theme-color);
+  color: var(--global-hover-text-color);
+
+  &:hover {
+    background: var(--global-hover-color);
+    color: var(--global-hover-text-color);
+  }
+}
+
+.about-hero__note {
+  max-width: 40rem;
+  margin-bottom: 0;
+  border-left: 3px solid var(--global-warm-accent);
+  padding-left: 0.85rem;
+  color: var(--global-text-color-light);
+  font-size: 0.95rem;
+  line-height: 1.65;
+}
+
+.about-hero__media.profile {
+  justify-self: end;
+  width: 240px;
+
+  figure {
+    margin: 0;
+  }
+
+  img {
+    border: 1px solid var(--global-divider-color);
+    background: var(--global-surface-color);
+    box-shadow: 0 18px 45px rgba(16, 24, 23, 0.12);
+  }
+}
+
+.about-highlights {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin-bottom: 2.75rem;
+  border-top: 1px solid var(--global-divider-color);
+  border-bottom: 1px solid var(--global-divider-color);
+  background: linear-gradient(90deg, var(--global-surface-color-soft), transparent);
+}
+
+.about-highlight {
+  padding: 1rem 1.15rem;
+  border-left: 1px solid var(--global-divider-color);
+
+  &:first-child {
+    border-left: 0;
+  }
+
+  span {
+    display: block;
+    margin-bottom: 0.25rem;
+    color: var(--global-text-color-light);
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+
+  strong {
+    display: block;
+    color: var(--global-heading-color);
+    font-size: 1.02rem;
+  }
+}
+
+.about-section {
+  margin-top: 3rem;
+}
+
+.about-section-title,
+.about-section--experience h2 {
+  margin-bottom: 1.35rem;
+  color: var(--global-heading-color);
+  font-size: 1.55rem;
+  font-weight: 800;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover {
+      color: var(--global-theme-color);
+      text-decoration: none;
+    }
+  }
+}
+
+.about-section--experience {
+  .list-group-item {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .about-hero {
+    grid-template-columns: 1fr;
+    gap: 1.75rem;
+    padding-top: 2rem;
+  }
+
+  .about-hero .post-title {
+    font-size: 2.35rem;
+  }
+
+  .about-hero__tagline {
+    font-size: 1.1rem;
+  }
+
+  .about-hero__media.profile {
+    justify-self: start;
+    width: 180px;
+  }
+
+  .about-highlights {
+    grid-template-columns: 1fr;
+  }
+
+  .about-highlight {
+    border-top: 1px solid var(--global-divider-color);
+    border-left: 0;
+
+    &:first-child {
+      border-top: 0;
+    }
+  }
+}
+
 .post .list-group-item {
   background-color: transparent;
   color: inherit;
@@ -415,6 +645,61 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.about-page .social {
+  margin-top: 2.5rem;
+
+  .contact-icons {
+    font-size: 2rem;
+  }
+}
+
+// News
+
+.news-timeline-wrap {
+  overflow-y: auto;
+}
+
+.news-timeline {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.news-timeline__item {
+  position: relative;
+  display: grid;
+  grid-template-columns: 8.5rem minmax(0, 1fr);
+  gap: 1.1rem;
+  padding: 0.85rem 0;
+  border-bottom: 1px solid var(--global-divider-color);
+
+  &:first-child {
+    padding-top: 0;
+  }
+
+  time {
+    color: var(--global-theme-color);
+    font-size: 0.84rem;
+    font-weight: 800;
+  }
+}
+
+.news-timeline__body {
+  color: var(--global-text-color);
+  line-height: 1.65;
+
+  p {
+    margin: 0;
+  }
+}
+
+@media (max-width: 576px) {
+  .news-timeline__item {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+}
+
 .wechat-modal {
   display: none;
   position: fixed;
@@ -701,6 +986,8 @@ footer.sticky-bottom {
 
     li {
       margin-bottom: 1rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid var(--global-divider-color);
 
       .abbr {
         margin-bottom: 0.5rem;
@@ -723,10 +1010,23 @@ footer.sticky-bottom {
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
         }
+
+        figure {
+          margin: 0;
+        }
+
+        .preview {
+          width: 100%;
+          aspect-ratio: 16 / 10;
+          object-fit: cover;
+          border: 1px solid var(--global-divider-color);
+          background: var(--global-surface-color-soft);
+        }
       }
 
       .title {
         font-weight: bolder;
+        color: var(--global-heading-color);
       }
 
       .author {

@@ -8,10 +8,10 @@ middle_name:
 last_name: Wang
 email: Yingyu.Wang@uts.edu.au
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Postdoctoral Research Associate at the Robotics Institute, University of Technology Sydney.
+  Postdoctoral Research Associate at the Robotics Institute, University of Technology Sydney. Researching SLAM, occupancy mapping, and state estimation for autonomous robotics.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: # add your own keywords or leave empty
+keywords: robotics, SLAM, mapping, state estimation
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -61,9 +61,9 @@ max_width: 900px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: https://wangyingyu.github.io/assets/img/photo.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -423,8 +423,8 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 enable_google_analytics: true # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
-enable_google_verification: true # enables google site verification
-enable_bing_verification: true # enables bing site verification
+enable_google_verification: false # enables google site verification
+enable_bing_verification: false # enables bing site verification
 enable_masonry: false # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
@@ -432,7 +432,7 @@ enable_darkmode: true # enables switching between light/dark modes
 enable_navbar_social: true # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
-enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
+enable_progressbar: false # enables a horizontal progress bar linked to the vertical scroll position
 enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
 
 # -----------------------------------------------------------------------------

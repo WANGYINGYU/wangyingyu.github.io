@@ -1,24 +1,57 @@
 ---
 layout: default
 ---
-<div class="post">
-  <header class="post-header">
-    <h1 class="post-title">
-      {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
-      {% else %}
-        {{ site.title }}
+<div class="post about-page">
+  <section class="about-hero" aria-label="Profile introduction">
+    <div class="about-hero__content">
+      <p class="about-hero__eyebrow">Robotics Institute · University of Technology Sydney</p>
+      <h1 class="post-title">
+        {% if site.title == 'blank' %}
+          <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+          {{ site.last_name }}
+        {% else %}
+          {{ site.title }}
+        {% endif %}
+      </h1>
+      {% if page.tagline %}
+        <p class="about-hero__tagline">{{ page.tagline }}</p>
       {% endif %}
-    </h1>
-    {% if page.subtitle %}
-      <p class="desc">{{ page.subtitle | newline_to_br }}</p>
-    {% endif %}
-  </header>
-
-  <article>
+      {% if page.hero_description %}
+        <p class="about-hero__description">{{ page.hero_description }}</p>
+      {% endif %}
+      {% if page.research_tags %}
+        <div class="about-hero__tags" aria-label="Research areas">
+          {% for tag in page.research_tags %}
+            <span>{{ tag }}</span>
+          {% endfor %}
+        </div>
+      {% endif %}
+      <div class="about-hero__actions">
+        <a class="about-action about-action--primary" href="{{ '/publications/' | relative_url }}">
+          <i class="fa-solid fa-book-open"></i>
+          Publications
+        </a>
+        <a class="about-action" href="{{ '/assets/pdf/my_cv.pdf' | relative_url }}">
+          <i class="fa-solid fa-file-lines"></i>
+          CV
+        </a>
+        <a class="about-action" href="mailto:{{ site.email | encode_email }}">
+          <i class="fa-solid fa-envelope"></i>
+          Email
+        </a>
+        {% if site.scholar_userid %}
+          <a class="about-action" href="https://scholar.google.com/citations?user={{ site.scholar_userid }}">
+            <i class="ai ai-google-scholar"></i>
+            Scholar
+          </a>
+        {% endif %}
+      </div>
+      {% if page.opportunity_note %}
+        <p class="about-hero__note">{{ page.opportunity_note }}</p>
+      {% endif %}
+    </div>
     {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+      <div class="about-hero__media profile">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
@@ -30,7 +63,7 @@ layout: default
           {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
       30vw, 95vw"{% endcapture %}
           {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
+            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=site.title
             cache_bust=true
           %}
         {% endif %}
@@ -39,32 +72,51 @@ layout: default
         {% endif %}
       </div>
     {% endif %}
+  </section>
 
-    <div class="clearfix">{{ content }}</div>
+  {% if page.hero_highlights %}
+    <section class="about-highlights" aria-label="Profile highlights">
+      {% for item in page.hero_highlights %}
+        <div class="about-highlight">
+          <span>{{ item.label }}</span>
+          <strong>{{ item.value }}</strong>
+        </div>
+      {% endfor %}
+    </section>
+  {% endif %}
 
-    <!-- News -->
-    {% if page.news and site.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
-      </h2>
-      {% include news.liquid limit=true %}
+  <article>
+    <!-- Selected papers -->
+    {% if page.selected_papers %}
+      <section class="about-section about-section--publications">
+        <h2 class="about-section-title">
+          <a href="{{ '/publications/' | relative_url }}">Selected Publications</a>
+        </h2>
+        {% include selected_papers.liquid %}
+      </section>
     {% endif %}
 
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
-      <h2>
+      <h2 class="about-section-title">
         <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
 
-    <!-- Selected papers -->
-    <!-- {% if page.selected_papers %} -->
-    <h2>
-      <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
-    </h2>
-    {% include selected_papers.liquid %}
-    <!-- {% endif %} -->
+    <!-- News -->
+    {% if page.news and site.announcements.enabled %}
+      <section class="about-section about-section--news">
+        <h2 class="about-section-title">
+          <a href="{{ '/news/' | relative_url }}">News</a>
+        </h2>
+        {% include news.liquid limit=true %}
+      </section>
+    {% endif %}
+
+    <section class="about-section about-section--experience">
+      <div class="clearfix">{{ content }}</div>
+    </section>
 
     <!-- Social -->
     {% if page.social %}

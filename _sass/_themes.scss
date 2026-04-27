@@ -3,14 +3,21 @@
  ******************************************************************************/
 
 :root {
-  --global-bg-color: #{$white-color};
+  --global-bg-color: #fbfaf6;
   --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #{$black-color};
-  --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$cyan-color};
+  --global-text-color: #17201f;
+  --global-text-color-light: #66716f;
+  --global-heading-color: #101817;
+  --global-theme-color: #1d8588;
+  --global-hover-color: #0d686b;
   --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #{$grey-color-dark};
+  --global-surface-color: #ffffff;
+  --global-surface-color-soft: #f0f5f1;
+  --global-accent-soft: rgba(29, 133, 136, 0.12);
+  --global-secondary-accent: #637f44;
+  --global-warm-accent: #a65f42;
+  --global-grid-line: rgba(29, 133, 136, 0.11);
+  --global-footer-bg-color: #162120;
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$grey-color};
@@ -68,13 +75,20 @@
 }
 
 html[data-theme="dark"] {
-  --global-bg-color: #{$grey-color-dark};
+  --global-bg-color: #161c1b;
   --global-code-bg-color: #{$code-bg-color-dark};
-  --global-text-color: #{$grey-color-light};
-  --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$cyan-color};
+  --global-text-color: #edf3f0;
+  --global-text-color-light: #a7b2af;
+  --global-heading-color: #ffffff;
+  --global-theme-color: #54bfc0;
+  --global-hover-color: #89d4cb;
   --global-hover-text-color: #{$white-color};
+  --global-surface-color: #202827;
+  --global-surface-color-soft: #1c2524;
+  --global-accent-soft: rgba(84, 191, 192, 0.14);
+  --global-secondary-accent: #93b66a;
+  --global-warm-accent: #d28b6e;
+  --global-grid-line: rgba(84, 191, 192, 0.12);
   --global-footer-bg-color: #{$grey-color-light};
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};
