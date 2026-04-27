@@ -39,9 +39,10 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="clearfix">{{ content }}</div>
-
-    {% include about_experience.liquid %}
+    <div class="clearfix">
+      {{ content }}
+      {% include about_experience.liquid %}
+    </div>
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
