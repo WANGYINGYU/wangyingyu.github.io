@@ -5,14 +5,12 @@ permalink: /
 subtitle: |
   Postdoctoral Research Associate
   Robotics Institute, University of Technology Sydney
-tagline: Optimization-based SLAM, occupancy mapping, and state estimation for autonomous robotics.
+tagline: SLAM, occupancy mapping, and state estimation for autonomous robots.
 hero_description: >
-  I develop algorithms that jointly optimize robot poses and environment representations,
-  with a focus on scalable mapping, robust state estimation, and autonomous robot perception.
-  I completed my PhD at UTS under the supervision of Prof. Shoudong Huang and A/Prof. Liang Zhao.
+  I develop optimization-based mapping and state-estimation algorithms that jointly refine
+  robot poses and environment representations for scalable autonomous robot perception.
 opportunity_note: >
-  I am actively seeking academic opportunities in SLAM and related areas, and I am always
-  happy to discuss collaborations.
+  Open to academic opportunities and collaborations in SLAM, mapping, and robot autonomy.
 research_tags:
   - SLAM
   - Occupancy Mapping
@@ -29,7 +27,7 @@ hero_highlights:
 profile:
   align: right
   image: photo.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
