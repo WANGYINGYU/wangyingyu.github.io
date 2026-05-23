@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have completed my PhD at the Robotics Institute, University of Technology Sydney.
+I have completed my PhD at the Robotics Institute, University of Technology Sydney. Please find my PhD thesis [here](https://opus.lib.uts.edu.au/handle/10453/195046).
