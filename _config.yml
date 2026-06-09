@@ -6,9 +6,9 @@ title: Yingyu Wang # the website title (if blank, full name will be used instead
 first_name: Yingyu
 middle_name:
 last_name: Wang
-email: Yingyu.Wang@uts.edu.au
+email: ywang42@ed.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Postdoctoral Research Associate at the Robotics Institute, University of Technology Sydney. Researching SLAM, occupancy mapping, and state estimation for autonomous robotics.
+  Research Associate at The University of Edinburgh. Researching SLAM, occupancy mapping, and state estimation for autonomous robotics.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: robotics, SLAM, mapping, state estimation

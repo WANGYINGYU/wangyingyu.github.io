@@ -42,36 +42,21 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Associate
+      institution: School of Informatics, The University of Edinburgh
+      year: Jun. 2026 - Present
     - title: Postdoctoral Research Associate
       institution: Robotics Institute, University of Technology Sydney
-      year: Sep. 2025 - Present
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
+      year: Sep. 2025 - May 2026
     - title: Casual Academic
       institution: School of Mechanical and Mechatronic Engineering, University of Technology Sydney
       year: Aug. 2022 – Dec. 2025
-      # description:
-      #   - Description 1.
-      #   - Description 2.
 
     - title: Visiting Ph.D.
       institution: School of Informatics, The University of Edinburgh
       year: Mar. 2025 – Sep. 2025
 
-    # - title: Professor of Theoretical Physics
-    #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
-    #   year: 1911 - 1917
-    #   description:
-
-    # - title: Associate Professor of Theoretical Physics
-    #   institution: University of Zurich, Zurich, Switzerland
-    #   year: 1909 - 1911
-
+  
 - title: Open Source Projects
   type: time_table
   contents:
