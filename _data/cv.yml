@@ -80,8 +80,8 @@
   contents:
     - title: SLAM
       items:
-        - Non-featured Based Map Representation
-        - 3D Lidar Based SLAM
+        - Non-featured Map Representation
+        - 3D Lidar SLAM
         - Optimization
         - State Estimation
 #     - title: Topic 2.
