@@ -23,4 +23,4 @@ I am currently a Research Associate at [The University of Edinburgh](https://www
 
 I am actively seeking **academic opportunities** in SLAM and related areas. If you are aware of any suitable positions or would like to discuss potential collaborations, I would be very happy to hear from you.
 
-[Email](mailto:Yingyu.Wang-1@student.uts.edu.au) / [Github](https://github.com/WANGYINGYU?tab=projects) / [Google Scholar](https://scholar.google.com/citations?user=LgeJ4P0AAAAJ&hl=en&authuser=1) / [ResearchGate](https://www.researchgate.net/profile/Yingyu-Wang-9)
+[Email](mailto:Yingyu.Wang@ed.ac.uk) / [Github](https://github.com/WANGYINGYU?tab=projects) / [Google Scholar](https://scholar.google.com/citations?user=LgeJ4P0AAAAJ&hl=en&authuser=1) / [ResearchGate](https://www.researchgate.net/profile/Yingyu-Wang-9)

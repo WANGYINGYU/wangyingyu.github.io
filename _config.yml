@@ -6,7 +6,7 @@ title: Yingyu Wang # the website title (if blank, full name will be used instead
 first_name: Yingyu
 middle_name:
 last_name: Wang
-email: ywang42@ed.ac.uk
+email: Yingyu.Wang@ed.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Research Associate at The University of Edinburgh. Researching SLAM, occupancy mapping, and state estimation for autonomous robotics.
 footer_text: >
