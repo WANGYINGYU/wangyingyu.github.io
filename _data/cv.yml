@@ -48,7 +48,7 @@
     - title: Postdoctoral Research Associate
       institution: Robotics Institute, University of Technology Sydney
       year: Sep. 2025 - May 2026
-    - title: Casual Academic
+    - title: Teaching Assistant
       institution: School of Mechanical and Mechatronic Engineering, University of Technology Sydney
       year: Aug. 2022 – Dec. 2025
 
@@ -56,7 +56,22 @@
       institution: School of Informatics, The University of Edinburgh
       year: Mar. 2025 – Sep. 2025
 
-  
+- title: Academic Service
+  type: nested_list
+  contents:
+    - title: Editorial Role
+      items:
+        - Associate Editor for IROS 2026
+    - title: Workshop Organizer
+      items:
+        - "Lead Organizer, RSS 2026 Workshop: From Perception to Action: Representation-Centric Robot Autonomy"
+    - title: Journal Reviewer
+      items:
+        - T-RO, IJRR, R-AL, AURO
+    - title: Conference Reviewer
+      items:
+        - RSS 2025, ICRA 2024–2026, IROS 2023–2025
+
 - title: Open Source Projects
   type: time_table
   contents:
